@@ -1,0 +1,271 @@
+<gallery
+base = ""
+background = "#FFFFFF"
+banner = "#F0F0F0"
+text = "#000000"
+link = "#0000FF"
+alink = "#FF0000"
+vlink = "#800080"
+date = "076">
+	<sitename></sitename>
+	<photographer></photographer>
+	<contactinfo></contactinfo>
+	<email></email>
+	<security><![CDATA[]]> </security>
+
+<banner font = "Hiragino Kaku Gothic Pro" fontsize = "3" color =  "#F0F0F0"> </banner>
+<thumbnail base ="thumbnails/" font = "Hiragino Kaku Gothic Pro" fontsize = "4" color = "#F0F0F0" border = "0" rows = "2" col = "4"> </thumbnail> 
+<large base ="images/" font = "Hiragino Kaku Gothic Pro" fontsize = "3" color = "#F0F0F0" border = "0"> </large>
+<images id = "images">
+
+<image
+path = "0527.jpg"
+width = "720"
+height = "480"
+thumbpath = "0527.jpg"
+thumbwidth = "200"
+thumbheight = "133">
+</image>
+
+
+<image
+path = "0528.jpg"
+width = "720"
+height = "480"
+thumbpath = "0528.jpg"
+thumbwidth = "200"
+thumbheight = "133">
+</image>
+
+
+<image
+path = "0529.jpg"
+width = "720"
+height = "480"
+thumbpath = "0529.jpg"
+thumbwidth = "200"
+thumbheight = "133">
+</image>
+
+
+<image
+path = "0530.jpg"
+width = "720"
+height = "480"
+thumbpath = "0530.jpg"
+thumbwidth = "200"
+thumbheight = "133">
+</image>
+
+
+<image
+path = "0531.jpg"
+width = "720"
+height = "480"
+thumbpath = "0531.jpg"
+thumbwidth = "200"
+thumbheight = "133">
+</image>
+
+
+<image
+path = "0532.jpg"
+width = "720"
+height = "480"
+thumbpath = "0532.jpg"
+thumbwidth = "200"
+thumbheight = "133">
+</image>
+
+
+<image
+path = "0533.jpg"
+width = "720"
+height = "480"
+thumbpath = "0533.jpg"
+thumbwidth = "200"
+thumbheight = "133">
+</image>
+
+
+<image
+path = "0534.jpg"
+width = "720"
+height = "480"
+thumbpath = "0534.jpg"
+thumbwidth = "200"
+thumbheight = "133">
+</image>
+
+
+<image
+path = "0535.jpg"
+width = "720"
+height = "480"
+thumbpath = "0535.jpg"
+thumbwidth = "200"
+thumbheight = "133">
+</image>
+
+
+<image
+path = "0536.jpg"
+width = "720"
+height = "480"
+thumbpath = "0536.jpg"
+thumbwidth = "200"
+thumbheight = "133">
+</image>
+
+
+<image
+path = "0537.jpg"
+width = "720"
+height = "480"
+thumbpath = "0537.jpg"
+thumbwidth = "200"
+thumbheight = "133">
+</image>
+
+
+<image
+path = "0538.jpg"
+width = "720"
+height = "480"
+thumbpath = "0538.jpg"
+thumbwidth = "200"
+thumbheight = "133">
+</image>
+
+
+<image
+path = "0539.jpg"
+width = "720"
+height = "480"
+thumbpath = "0539.jpg"
+thumbwidth = "200"
+thumbheight = "133">
+</image>
+
+
+<image
+path = "0540.jpg"
+width = "720"
+height = "480"
+thumbpath = "0540.jpg"
+thumbwidth = "200"
+thumbheight = "133">
+</image>
+
+
+<image
+path = "0541.jpg"
+width = "720"
+height = "480"
+thumbpath = "0541.jpg"
+thumbwidth = "200"
+thumbheight = "133">
+</image>
+
+
+<image
+path = "0542.jpg"
+width = "720"
+height = "480"
+thumbpath = "0542.jpg"
+thumbwidth = "200"
+thumbheight = "133">
+</image>
+
+
+<image
+path = "0543.jpg"
+width = "720"
+height = "480"
+thumbpath = "0543.jpg"
+thumbwidth = "200"
+thumbheight = "133">
+</image>
+
+
+<image
+path = "0544.jpg"
+width = "720"
+height = "480"
+thumbpath = "0544.jpg"
+thumbwidth = "200"
+thumbheight = "133">
+</image>
+
+
+<image
+path = "0545.jpg"
+width = "720"
+height = "480"
+thumbpath = "0545.jpg"
+thumbwidth = "200"
+thumbheight = "133">
+</image>
+
+
+<image
+path = "0546.jpg"
+width = "720"
+height = "480"
+thumbpath = "0546.jpg"
+thumbwidth = "200"
+thumbheight = "133">
+</image>
+
+
+<image
+path = "0547.jpg"
+width = "720"
+height = "480"
+thumbpath = "0547.jpg"
+thumbwidth = "200"
+thumbheight = "133">
+</image>
+
+
+<image
+path = "0548.jpg"
+width = "720"
+height = "480"
+thumbpath = "0548.jpg"
+thumbwidth = "200"
+thumbheight = "133">
+</image>
+
+
+<image
+path = "0549.jpg"
+width = "720"
+height = "480"
+thumbpath = "0549.jpg"
+thumbwidth = "200"
+thumbheight = "133">
+</image>
+
+
+<image
+path = "0550.jpg"
+width = "720"
+height = "480"
+thumbpath = "0550.jpg"
+thumbwidth = "200"
+thumbheight = "133">
+</image>
+
+
+<image
+path = "0551.jpg"
+width = "720"
+height = "480"
+thumbpath = "0551.jpg"
+thumbwidth = "200"
+thumbheight = "133">
+</image>
+
+</images>
+</gallery>

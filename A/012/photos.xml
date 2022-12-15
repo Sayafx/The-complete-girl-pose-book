@@ -1,0 +1,301 @@
+<gallery
+base = ""
+background = "#FFFFFF"
+banner = "#F0F0F0"
+text = "#000000"
+link = "#0000FF"
+alink = "#FF0000"
+vlink = "#800080"
+date = "012">
+	<sitename></sitename>
+	<photographer></photographer>
+	<contactinfo></contactinfo>
+	<email></email>
+	<security><![CDATA[]]> </security>
+
+<banner font = "Hiragino Kaku Gothic Pro" fontsize = "3" color =  "#F0F0F0"> </banner>
+<thumbnail base ="thumbnails/" font = "Hiragino Kaku Gothic Pro" fontsize = "4" color = "#F0F0F0" border = "0" rows = "2" col = "4"> </thumbnail> 
+<large base ="images/" font = "Hiragino Kaku Gothic Pro" fontsize = "3" color = "#F0F0F0" border = "0"> </large>
+<images id = "images">
+
+<image
+path = "g1214.jpg"
+width = "359"
+height = "720"
+thumbpath = "g1214.jpg"
+thumbwidth = "99"
+thumbheight = "200">
+</image>
+
+
+<image
+path = "g1216.jpg"
+width = "300"
+height = "720"
+thumbpath = "g1216.jpg"
+thumbwidth = "83"
+thumbheight = "200">
+</image>
+
+
+<image
+path = "g1219.jpg"
+width = "285"
+height = "720"
+thumbpath = "g1219.jpg"
+thumbwidth = "79"
+thumbheight = "200">
+</image>
+
+
+<image
+path = "g1723.jpg"
+width = "330"
+height = "720"
+thumbpath = "g1723.jpg"
+thumbwidth = "91"
+thumbheight = "200">
+</image>
+
+
+<image
+path = "v0881.jpg"
+width = "485"
+height = "720"
+thumbpath = "v0881.jpg"
+thumbwidth = "134"
+thumbheight = "200">
+</image>
+
+
+<image
+path = "v0882.jpg"
+width = "399"
+height = "720"
+thumbpath = "v0882.jpg"
+thumbwidth = "110"
+thumbheight = "200">
+</image>
+
+
+<image
+path = "v0884.jpg"
+width = "392"
+height = "720"
+thumbpath = "v0884.jpg"
+thumbwidth = "109"
+thumbheight = "200">
+</image>
+
+
+<image
+path = "v0885.jpg"
+width = "341"
+height = "720"
+thumbpath = "v0885.jpg"
+thumbwidth = "94"
+thumbheight = "200">
+</image>
+
+
+<image
+path = "v0886.jpg"
+width = "326"
+height = "720"
+thumbpath = "v0886.jpg"
+thumbwidth = "90"
+thumbheight = "200">
+</image>
+
+
+<image
+path = "v0888.jpg"
+width = "297"
+height = "720"
+thumbpath = "v0888.jpg"
+thumbwidth = "82"
+thumbheight = "200">
+</image>
+
+
+<image
+path = "v0889.jpg"
+width = "291"
+height = "720"
+thumbpath = "v0889.jpg"
+thumbwidth = "81"
+thumbheight = "200">
+</image>
+
+
+<image
+path = "v0891.jpg"
+width = "397"
+height = "720"
+thumbpath = "v0891.jpg"
+thumbwidth = "110"
+thumbheight = "200">
+</image>
+
+
+<image
+path = "v0894.jpg"
+width = "364"
+height = "720"
+thumbpath = "v0894.jpg"
+thumbwidth = "101"
+thumbheight = "200">
+</image>
+
+
+<image
+path = "v0895.jpg"
+width = "344"
+height = "720"
+thumbpath = "v0895.jpg"
+thumbwidth = "95"
+thumbheight = "200">
+</image>
+
+
+<image
+path = "v0897.jpg"
+width = "278"
+height = "720"
+thumbpath = "v0897.jpg"
+thumbwidth = "77"
+thumbheight = "200">
+</image>
+
+
+<image
+path = "v0899.jpg"
+width = "374"
+height = "720"
+thumbpath = "v0899.jpg"
+thumbwidth = "104"
+thumbheight = "200">
+</image>
+
+
+<image
+path = "v0900.jpg"
+width = "503"
+height = "720"
+thumbpath = "v0900.jpg"
+thumbwidth = "139"
+thumbheight = "200">
+</image>
+
+
+<image
+path = "v0901.jpg"
+width = "435"
+height = "720"
+thumbpath = "v0901.jpg"
+thumbwidth = "121"
+thumbheight = "200">
+</image>
+
+
+<image
+path = "v0903.jpg"
+width = "342"
+height = "720"
+thumbpath = "v0903.jpg"
+thumbwidth = "95"
+thumbheight = "200">
+</image>
+
+
+<image
+path = "v0904.jpg"
+width = "267"
+height = "720"
+thumbpath = "v0904.jpg"
+thumbwidth = "74"
+thumbheight = "200">
+</image>
+
+
+<image
+path = "v1037.jpg"
+width = "490"
+height = "720"
+thumbpath = "v1037.jpg"
+thumbwidth = "136"
+thumbheight = "200">
+</image>
+
+
+<image
+path = "v1772.jpg"
+width = "428"
+height = "720"
+thumbpath = "v1772.jpg"
+thumbwidth = "119"
+thumbheight = "200">
+</image>
+
+
+<image
+path = "v1777.jpg"
+width = "354"
+height = "720"
+thumbpath = "v1777.jpg"
+thumbwidth = "98"
+thumbheight = "200">
+</image>
+
+
+<image
+path = "v1796.jpg"
+width = "474"
+height = "720"
+thumbpath = "v1796.jpg"
+thumbwidth = "131"
+thumbheight = "200">
+</image>
+
+
+<image
+path = "v1797.jpg"
+width = "445"
+height = "720"
+thumbpath = "v1797.jpg"
+thumbwidth = "123"
+thumbheight = "200">
+</image>
+
+
+<image
+path = "v1799.jpg"
+width = "321"
+height = "720"
+thumbpath = "v1799.jpg"
+thumbwidth = "89"
+thumbheight = "200">
+</image>
+
+
+<image
+path = "v1802.jpg"
+width = "359"
+height = "720"
+thumbpath = "v1802.jpg"
+thumbwidth = "99"
+thumbheight = "200">
+</image>
+
+
+<image
+path = "v1803.jpg"
+width = "399"
+height = "720"
+thumbpath = "v1803.jpg"
+thumbwidth = "110"
+thumbheight = "200">
+</image>
+
+</images>
+</gallery>

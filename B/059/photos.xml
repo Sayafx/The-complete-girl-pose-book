@@ -1,0 +1,201 @@
+<gallery
+base = ""
+background = "#FFFFFF"
+banner = "#F0F0F0"
+text = "#000000"
+link = "#0000FF"
+alink = "#FF0000"
+vlink = "#800080"
+date = "059">
+	<sitename></sitename>
+	<photographer></photographer>
+	<contactinfo></contactinfo>
+	<email></email>
+	<security><![CDATA[]]> </security>
+
+<banner font = "Hiragino Kaku Gothic Pro" fontsize = "3" color =  "#F0F0F0"> </banner>
+<thumbnail base ="thumbnails/" font = "Hiragino Kaku Gothic Pro" fontsize = "4" color = "#F0F0F0" border = "0" rows = "2" col = "4"> </thumbnail> 
+<large base ="images/" font = "Hiragino Kaku Gothic Pro" fontsize = "3" color = "#F0F0F0" border = "0"> </large>
+<images id = "images">
+
+<image
+path = "0127.jpg"
+width = "480"
+height = "720"
+thumbpath = "0127.jpg"
+thumbwidth = "133"
+thumbheight = "200">
+</image>
+
+
+<image
+path = "0128.jpg"
+width = "480"
+height = "720"
+thumbpath = "0128.jpg"
+thumbwidth = "133"
+thumbheight = "200">
+</image>
+
+
+<image
+path = "0129.jpg"
+width = "480"
+height = "720"
+thumbpath = "0129.jpg"
+thumbwidth = "133"
+thumbheight = "200">
+</image>
+
+
+<image
+path = "0130.jpg"
+width = "480"
+height = "720"
+thumbpath = "0130.jpg"
+thumbwidth = "133"
+thumbheight = "200">
+</image>
+
+
+<image
+path = "0131.jpg"
+width = "480"
+height = "720"
+thumbpath = "0131.jpg"
+thumbwidth = "133"
+thumbheight = "200">
+</image>
+
+
+<image
+path = "0132.jpg"
+width = "480"
+height = "720"
+thumbpath = "0132.jpg"
+thumbwidth = "133"
+thumbheight = "200">
+</image>
+
+
+<image
+path = "0133.jpg"
+width = "480"
+height = "720"
+thumbpath = "0133.jpg"
+thumbwidth = "133"
+thumbheight = "200">
+</image>
+
+
+<image
+path = "0134.jpg"
+width = "480"
+height = "720"
+thumbpath = "0134.jpg"
+thumbwidth = "133"
+thumbheight = "200">
+</image>
+
+
+<image
+path = "0135.jpg"
+width = "480"
+height = "720"
+thumbpath = "0135.jpg"
+thumbwidth = "133"
+thumbheight = "200">
+</image>
+
+
+<image
+path = "0136.jpg"
+width = "480"
+height = "720"
+thumbpath = "0136.jpg"
+thumbwidth = "133"
+thumbheight = "200">
+</image>
+
+
+<image
+path = "0137.jpg"
+width = "480"
+height = "720"
+thumbpath = "0137.jpg"
+thumbwidth = "133"
+thumbheight = "200">
+</image>
+
+
+<image
+path = "0138.jpg"
+width = "480"
+height = "720"
+thumbpath = "0138.jpg"
+thumbwidth = "133"
+thumbheight = "200">
+</image>
+
+
+<image
+path = "0139.jpg"
+width = "480"
+height = "720"
+thumbpath = "0139.jpg"
+thumbwidth = "133"
+thumbheight = "200">
+</image>
+
+
+<image
+path = "0140.jpg"
+width = "480"
+height = "720"
+thumbpath = "0140.jpg"
+thumbwidth = "133"
+thumbheight = "200">
+</image>
+
+
+<image
+path = "0141.jpg"
+width = "480"
+height = "720"
+thumbpath = "0141.jpg"
+thumbwidth = "133"
+thumbheight = "200">
+</image>
+
+
+<image
+path = "0142.jpg"
+width = "480"
+height = "720"
+thumbpath = "0142.jpg"
+thumbwidth = "133"
+thumbheight = "200">
+</image>
+
+
+<image
+path = "0143.jpg"
+width = "480"
+height = "720"
+thumbpath = "0143.jpg"
+thumbwidth = "133"
+thumbheight = "200">
+</image>
+
+
+<image
+path = "0144.jpg"
+width = "480"
+height = "720"
+thumbpath = "0144.jpg"
+thumbwidth = "133"
+thumbheight = "200">
+</image>
+
+</images>
+</gallery>

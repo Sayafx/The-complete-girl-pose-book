@@ -1,0 +1,291 @@
+<gallery
+base = ""
+background = "#FFFFFF"
+banner = "#F0F0F0"
+text = "#000000"
+link = "#0000FF"
+alink = "#FF0000"
+vlink = "#800080"
+date = "079">
+	<sitename></sitename>
+	<photographer></photographer>
+	<contactinfo></contactinfo>
+	<email></email>
+	<security><![CDATA[]]> </security>
+
+<banner font = "Hiragino Kaku Gothic Pro" fontsize = "3" color =  "#F0F0F0"> </banner>
+<thumbnail base ="thumbnails/" font = "Hiragino Kaku Gothic Pro" fontsize = "4" color = "#F0F0F0" border = "0" rows = "2" col = "4"> </thumbnail> 
+<large base ="images/" font = "Hiragino Kaku Gothic Pro" fontsize = "3" color = "#F0F0F0" border = "0"> </large>
+<images id = "images">
+
+<image
+path = "0599.jpg"
+width = "720"
+height = "480"
+thumbpath = "0599.jpg"
+thumbwidth = "200"
+thumbheight = "133">
+</image>
+
+
+<image
+path = "0600.jpg"
+width = "720"
+height = "480"
+thumbpath = "0600.jpg"
+thumbwidth = "200"
+thumbheight = "133">
+</image>
+
+
+<image
+path = "0601.jpg"
+width = "720"
+height = "480"
+thumbpath = "0601.jpg"
+thumbwidth = "200"
+thumbheight = "133">
+</image>
+
+
+<image
+path = "0602.jpg"
+width = "720"
+height = "480"
+thumbpath = "0602.jpg"
+thumbwidth = "200"
+thumbheight = "133">
+</image>
+
+
+<image
+path = "0603.jpg"
+width = "720"
+height = "480"
+thumbpath = "0603.jpg"
+thumbwidth = "200"
+thumbheight = "133">
+</image>
+
+
+<image
+path = "0604.jpg"
+width = "720"
+height = "480"
+thumbpath = "0604.jpg"
+thumbwidth = "200"
+thumbheight = "133">
+</image>
+
+
+<image
+path = "0605.jpg"
+width = "720"
+height = "480"
+thumbpath = "0605.jpg"
+thumbwidth = "200"
+thumbheight = "133">
+</image>
+
+
+<image
+path = "0606.jpg"
+width = "720"
+height = "480"
+thumbpath = "0606.jpg"
+thumbwidth = "200"
+thumbheight = "133">
+</image>
+
+
+<image
+path = "0607.jpg"
+width = "720"
+height = "480"
+thumbpath = "0607.jpg"
+thumbwidth = "200"
+thumbheight = "133">
+</image>
+
+
+<image
+path = "0608.jpg"
+width = "720"
+height = "480"
+thumbpath = "0608.jpg"
+thumbwidth = "200"
+thumbheight = "133">
+</image>
+
+
+<image
+path = "0609.jpg"
+width = "720"
+height = "480"
+thumbpath = "0609.jpg"
+thumbwidth = "200"
+thumbheight = "133">
+</image>
+
+
+<image
+path = "0610.jpg"
+width = "720"
+height = "480"
+thumbpath = "0610.jpg"
+thumbwidth = "200"
+thumbheight = "133">
+</image>
+
+
+<image
+path = "0611.jpg"
+width = "720"
+height = "480"
+thumbpath = "0611.jpg"
+thumbwidth = "200"
+thumbheight = "133">
+</image>
+
+
+<image
+path = "0612.jpg"
+width = "720"
+height = "480"
+thumbpath = "0612.jpg"
+thumbwidth = "200"
+thumbheight = "133">
+</image>
+
+
+<image
+path = "0613.jpg"
+width = "720"
+height = "480"
+thumbpath = "0613.jpg"
+thumbwidth = "200"
+thumbheight = "133">
+</image>
+
+
+<image
+path = "0614.jpg"
+width = "720"
+height = "480"
+thumbpath = "0614.jpg"
+thumbwidth = "200"
+thumbheight = "133">
+</image>
+
+
+<image
+path = "0615.jpg"
+width = "720"
+height = "480"
+thumbpath = "0615.jpg"
+thumbwidth = "200"
+thumbheight = "133">
+</image>
+
+
+<image
+path = "0616.jpg"
+width = "720"
+height = "480"
+thumbpath = "0616.jpg"
+thumbwidth = "200"
+thumbheight = "133">
+</image>
+
+
+<image
+path = "0617.jpg"
+width = "720"
+height = "480"
+thumbpath = "0617.jpg"
+thumbwidth = "200"
+thumbheight = "133">
+</image>
+
+
+<image
+path = "0618.jpg"
+width = "720"
+height = "480"
+thumbpath = "0618.jpg"
+thumbwidth = "200"
+thumbheight = "133">
+</image>
+
+
+<image
+path = "0619.jpg"
+width = "720"
+height = "480"
+thumbpath = "0619.jpg"
+thumbwidth = "200"
+thumbheight = "133">
+</image>
+
+
+<image
+path = "0620.jpg"
+width = "720"
+height = "480"
+thumbpath = "0620.jpg"
+thumbwidth = "200"
+thumbheight = "133">
+</image>
+
+
+<image
+path = "0621.jpg"
+width = "720"
+height = "480"
+thumbpath = "0621.jpg"
+thumbwidth = "200"
+thumbheight = "133">
+</image>
+
+
+<image
+path = "0622.jpg"
+width = "720"
+height = "480"
+thumbpath = "0622.jpg"
+thumbwidth = "200"
+thumbheight = "133">
+</image>
+
+
+<image
+path = "0623.jpg"
+width = "720"
+height = "480"
+thumbpath = "0623.jpg"
+thumbwidth = "200"
+thumbheight = "133">
+</image>
+
+
+<image
+path = "0624.jpg"
+width = "720"
+height = "480"
+thumbpath = "0624.jpg"
+thumbwidth = "200"
+thumbheight = "133">
+</image>
+
+
+<image
+path = "0625.jpg"
+width = "720"
+height = "480"
+thumbpath = "0625.jpg"
+thumbwidth = "200"
+thumbheight = "133">
+</image>
+
+</images>
+</gallery>

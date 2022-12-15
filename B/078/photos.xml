@@ -1,0 +1,261 @@
+<gallery
+base = ""
+background = "#FFFFFF"
+banner = "#F0F0F0"
+text = "#000000"
+link = "#0000FF"
+alink = "#FF0000"
+vlink = "#800080"
+date = "078">
+	<sitename></sitename>
+	<photographer></photographer>
+	<contactinfo></contactinfo>
+	<email></email>
+	<security><![CDATA[]]> </security>
+
+<banner font = "Hiragino Kaku Gothic Pro" fontsize = "3" color =  "#F0F0F0"> </banner>
+<thumbnail base ="thumbnails/" font = "Hiragino Kaku Gothic Pro" fontsize = "4" color = "#F0F0F0" border = "0" rows = "2" col = "4"> </thumbnail> 
+<large base ="images/" font = "Hiragino Kaku Gothic Pro" fontsize = "3" color = "#F0F0F0" border = "0"> </large>
+<images id = "images">
+
+<image
+path = "0575.jpg"
+width = "720"
+height = "480"
+thumbpath = "0575.jpg"
+thumbwidth = "200"
+thumbheight = "133">
+</image>
+
+
+<image
+path = "0576.jpg"
+width = "720"
+height = "480"
+thumbpath = "0576.jpg"
+thumbwidth = "200"
+thumbheight = "133">
+</image>
+
+
+<image
+path = "0577.jpg"
+width = "720"
+height = "480"
+thumbpath = "0577.jpg"
+thumbwidth = "200"
+thumbheight = "133">
+</image>
+
+
+<image
+path = "0578.jpg"
+width = "720"
+height = "480"
+thumbpath = "0578.jpg"
+thumbwidth = "200"
+thumbheight = "133">
+</image>
+
+
+<image
+path = "0579.jpg"
+width = "720"
+height = "480"
+thumbpath = "0579.jpg"
+thumbwidth = "200"
+thumbheight = "133">
+</image>
+
+
+<image
+path = "0580.jpg"
+width = "720"
+height = "480"
+thumbpath = "0580.jpg"
+thumbwidth = "200"
+thumbheight = "133">
+</image>
+
+
+<image
+path = "0581.jpg"
+width = "720"
+height = "480"
+thumbpath = "0581.jpg"
+thumbwidth = "200"
+thumbheight = "133">
+</image>
+
+
+<image
+path = "0582.jpg"
+width = "720"
+height = "480"
+thumbpath = "0582.jpg"
+thumbwidth = "200"
+thumbheight = "133">
+</image>
+
+
+<image
+path = "0583.jpg"
+width = "720"
+height = "480"
+thumbpath = "0583.jpg"
+thumbwidth = "200"
+thumbheight = "133">
+</image>
+
+
+<image
+path = "0584.jpg"
+width = "720"
+height = "480"
+thumbpath = "0584.jpg"
+thumbwidth = "200"
+thumbheight = "133">
+</image>
+
+
+<image
+path = "0585.jpg"
+width = "720"
+height = "480"
+thumbpath = "0585.jpg"
+thumbwidth = "200"
+thumbheight = "133">
+</image>
+
+
+<image
+path = "0586.jpg"
+width = "720"
+height = "480"
+thumbpath = "0586.jpg"
+thumbwidth = "200"
+thumbheight = "133">
+</image>
+
+
+<image
+path = "0587.jpg"
+width = "720"
+height = "480"
+thumbpath = "0587.jpg"
+thumbwidth = "200"
+thumbheight = "133">
+</image>
+
+
+<image
+path = "0588.jpg"
+width = "720"
+height = "480"
+thumbpath = "0588.jpg"
+thumbwidth = "200"
+thumbheight = "133">
+</image>
+
+
+<image
+path = "0589.jpg"
+width = "720"
+height = "480"
+thumbpath = "0589.jpg"
+thumbwidth = "200"
+thumbheight = "133">
+</image>
+
+
+<image
+path = "0590.jpg"
+width = "720"
+height = "480"
+thumbpath = "0590.jpg"
+thumbwidth = "200"
+thumbheight = "133">
+</image>
+
+
+<image
+path = "0591.jpg"
+width = "720"
+height = "480"
+thumbpath = "0591.jpg"
+thumbwidth = "200"
+thumbheight = "133">
+</image>
+
+
+<image
+path = "0592.jpg"
+width = "720"
+height = "480"
+thumbpath = "0592.jpg"
+thumbwidth = "200"
+thumbheight = "133">
+</image>
+
+
+<image
+path = "0593.jpg"
+width = "720"
+height = "480"
+thumbpath = "0593.jpg"
+thumbwidth = "200"
+thumbheight = "133">
+</image>
+
+
+<image
+path = "0594.jpg"
+width = "720"
+height = "480"
+thumbpath = "0594.jpg"
+thumbwidth = "200"
+thumbheight = "133">
+</image>
+
+
+<image
+path = "0595.jpg"
+width = "720"
+height = "480"
+thumbpath = "0595.jpg"
+thumbwidth = "200"
+thumbheight = "133">
+</image>
+
+
+<image
+path = "0596.jpg"
+width = "720"
+height = "480"
+thumbpath = "0596.jpg"
+thumbwidth = "200"
+thumbheight = "133">
+</image>
+
+
+<image
+path = "0597.jpg"
+width = "720"
+height = "480"
+thumbpath = "0597.jpg"
+thumbwidth = "200"
+thumbheight = "133">
+</image>
+
+
+<image
+path = "0598.jpg"
+width = "720"
+height = "480"
+thumbpath = "0598.jpg"
+thumbwidth = "200"
+thumbheight = "133">
+</image>
+
+</images>
+</gallery>

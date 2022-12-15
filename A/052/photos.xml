@@ -1,0 +1,81 @@
+<gallery
+base = ""
+background = "#FFFFFF"
+banner = "#F0F0F0"
+text = "#000000"
+link = "#0000FF"
+alink = "#FF0000"
+vlink = "#800080"
+date = "052">
+	<sitename></sitename>
+	<photographer></photographer>
+	<contactinfo></contactinfo>
+	<email></email>
+	<security><![CDATA[]]> </security>
+
+<banner font = "Hiragino Kaku Gothic Pro" fontsize = "3" color =  "#F0F0F0"> </banner>
+<thumbnail base ="thumbnails/" font = "Hiragino Kaku Gothic Pro" fontsize = "4" color = "#F0F0F0" border = "0" rows = "2" col = "4"> </thumbnail> 
+<large base ="images/" font = "Hiragino Kaku Gothic Pro" fontsize = "3" color = "#F0F0F0" border = "0"> </large>
+<images id = "images">
+
+<image
+path = "v4421.jpg"
+width = "450"
+height = "720"
+thumbpath = "v4421.jpg"
+thumbwidth = "125"
+thumbheight = "200">
+</image>
+
+
+<image
+path = "v4424.jpg"
+width = "390"
+height = "720"
+thumbpath = "v4424.jpg"
+thumbwidth = "108"
+thumbheight = "200">
+</image>
+
+
+<image
+path = "v4426.jpg"
+width = "352"
+height = "720"
+thumbpath = "v4426.jpg"
+thumbwidth = "97"
+thumbheight = "200">
+</image>
+
+
+<image
+path = "v4428.jpg"
+width = "394"
+height = "720"
+thumbpath = "v4428.jpg"
+thumbwidth = "109"
+thumbheight = "200">
+</image>
+
+
+<image
+path = "v4432.jpg"
+width = "891"
+height = "720"
+thumbpath = "v4432.jpg"
+thumbwidth = "200"
+thumbheight = "161">
+</image>
+
+
+<image
+path = "v4434.jpg"
+width = "827"
+height = "720"
+thumbpath = "v4434.jpg"
+thumbwidth = "200"
+thumbheight = "173">
+</image>
+
+</images>
+</gallery>
